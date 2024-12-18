@@ -2,7 +2,7 @@
 
 The aim of the `SeuratPipe` package is to streamline and provide a __reproducible__ computational analysis pipeline for single cell genomics. It aims to remove technical details from the user, enabling wet lab researchers to have an ‘initial look’ at the data themselves.
 
-The package is publicly available on Github [https://github.com/andreaskapou/SeuratPipe](https://github.com/andreaskapou/SeuratPipe).
+The package is publicly available on GitHub [https://github.com/andreaskapou/SeuratPipe](https://github.com/andreaskapou/SeuratPipe).
 
 
 The __vignette__ demonstrating the use of `SeuratPipe` for scRNA-seq analysis can be found on  [https://andreaskapou.github.io/SeuratPipe/articles/SeuratPipe.html](https://andreaskapou.github.io/SeuratPipe/articles/SeuratPipe.html) and the __data__ can be downloaded from this Github repository [https://github.com/andreaskapou/SeuratPipe_tutorial](https://github.com/andreaskapou/SeuratPipe_tutorial).
